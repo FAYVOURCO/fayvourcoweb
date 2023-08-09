@@ -2,7 +2,7 @@ import React from 'react';
 import {useRef} from 'react';
 import "./Header.css";
 import { Link} from 'react-router-dom';
-import Logo from "../fayvourco_logo-removebg-preview.png"
+import Logo from "../fayvourco-networks-logo.png"
 import {FaBars, FaTimes} from 'react-icons/fa';
 
 

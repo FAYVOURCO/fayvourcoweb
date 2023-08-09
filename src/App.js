@@ -13,7 +13,7 @@ import AboutProject from "./components/AboutProject";
 function App() {
   return (
     
-    <BrowserRouter> 
+    <BrowserRouter basename='/fayvourcoweb'> 
     <div className="body">
        <Header/>
   

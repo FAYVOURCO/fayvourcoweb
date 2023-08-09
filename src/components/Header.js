@@ -27,8 +27,8 @@ function Header() {
           <div className='nav' ref={navRef}>
             <Link to="/"><p>Home</p></Link>
             <Link to="aboutus"><p>About Us</p></Link>
-            <Link to="contactus"><p>Contact Us</p></Link>
-            <Link to="wedidit"><p>We did it!</p></Link>   
+            {/* <Link to="contactus"><p>Contact Us</p></Link> */}
+            {/* <Link to="wedidit"><p>We did it!</p></Link>    */}
             <Link to="becomeamember"><p>Membership</p></Link>  
             <button className='nav-btn nav-close-btn' onClick={showNavbar}>
               <FaTimes/>

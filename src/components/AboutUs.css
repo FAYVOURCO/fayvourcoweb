@@ -1,8 +1,12 @@
 .aboutus-body{
-    padding:0  2rem;
+     padding:0 2rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
     color: rgb(245, 242, 236);
     text-align: center;
     margin-top: 3.9rem;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .favour{
@@ -14,12 +18,25 @@ border-radius: 50%;
 
 h2{
     padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 h3{
-    padding: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .article{
-    margin: 2rem;
+    margin-bottom: 2rem;
+    max-width: 60rem;
+}
+
+.socials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction :column;
+}
+
+.socials div{
+    margin-bottom: 1rem;
 }

@@ -22,8 +22,17 @@ function AboutUs() {
  
       <div className='article'>
         <h3>Community Overview</h3>
-        <p>Fayvourco Networks provides a platform for white-collar individuals, Intrapreneurs and Entrepreneurs who do not enjoy working in traditional high-pressure white-collar jobs to share their work and collaborate with others. </p>
-        <p> Individuals work on projects/products that they are passionate about that fits with their schedule, short-term and long-term goals. We believe that this model provides a more fulfilling and sustainable way to work, and we are committed to helping our members achieve their goals.</p>
+        <p>Fayvourco Networks presents an innovative platform catering to the needs of white-collar professionals, Intrapreneurs, and Entrepreneurs seeking an alternative to conventional high-pressure work environments. Our ecosystem fosters collaboration, providing a conducive space for diverse talents to converge and co-create.
+          <br/><br/>
+
+In this unique setting, Intrapreneurs and Entrepreneurs have the freedom to engage in projects and products aligned with their passions, fitting seamlessly into their schedules and aligning with their short-term and long-term objectives. Concurrently, our community of dedicated white-collar individuals collaborates harmoniously to ensure the seamless and efficient functioning of Fayvourco.
+<br/><br/>
+
+We firmly believe that this symbiotic model offers a more gratifying and sustainable approach to work, nurturing personal growth and professional fulfillment. Our unwavering commitment lies in empowering each member to realize their aspirations and accomplishments.
+<br/><br/>
+
+
+Embrace a transformative paradigm with Fayvourco Networks, where innovation thrives and success is collectively forged. Partner with us in redefining the future of work, one collaborative endeavor at a time.</p>
       </div>
 
       <div className='article'>
@@ -32,17 +41,36 @@ function AboutUs() {
         <div>
         <img src ={Favour} alt='Favour Onyeaghala, CEO/FOUNDER fayvourco networks' className='favour'/>
         </div>
-        <p>Favour Onyeaghala is a self-taught software engineer and UI/UX designer with a passion for learning new skills and pushing himself to the limits. He is currently studying marine engineering at the University of Benin.
+        <p>Favour Onyeaghala, a seasoned Product Manager at Fayvourco Networks, brings a dynamic blend of expertise in Web Development and UI/UX design. Driven by an insatiable thirst for learning, he constantly challenges himself to surpass boundaries. Currently pursuing studies in marine engineering at the University of Benin, Favour epitomizes the fusion of diverse knowledge streams.
+        <br/><br/>
 
-          Favour is a highly motivated and results-oriented individual with a strong work ethic. He is also a team player and is always willing to help others. He is passionate about using his skills to make a positive impact on the world.
+A fervent believer in the power of determination, Favour radiates motivation and a results-centric mindset. His unwavering commitment to his craft is evident in his work ethic. With a collaborative spirit, he readily extends a helping hand to his peers, epitomizing a true team player.
+<br/><br/>
 
-          In his spare time, Favour enjoys making music.  Favour is confident that his skills and experience will make him a valuable asset to any team. He is eager make a difference in the world with his dream team here at Fayvourco Networks.
+Favour's ardor lies in harnessing his proficiencies to create positive change in the world. Beyond his professional pursuits, he channels his creativity into the realm of music. Favour aspires to drive transformation alongside his dream team.
+<br/><br/>
 
-          Linkedin: Favour Onyeaghala 
-          email: onyeaghalafavourr@gmail.com
+Join us in embarking on this journey of innovation and impact, guided by the visionary leadership of Favour Onyeaghala.
+<br/>
+          Linkedin: <a href='https://www.linkedin.com/in/fav99' target='blank'>Favour Onyeaghala </a>
+          <br/>
+          Email: <a href='mailto:onyeaghalafavourr@gmail.com' target='blank'>onyeaghalafavourr@gmail.com</a>
         </p>
         
       </div>
+
+      <div className='article'>
+        <h3>Contact Us</h3>
+        <div className='socials'>
+          <p>
+         Linkedin: <a a href='https://www.linkedin.com/company/fayvourco-networks' target='blank'>Fayvourco Networks</a>
+         </p> <br/>
+         <p>
+          Email:<a href='mailto:fayvourconetworks@gmail.com'>fayvourconetworks</a>
+          </p>
+        </div>
+      </div>
+
     </div>
 
   )

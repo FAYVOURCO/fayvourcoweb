@@ -6,9 +6,10 @@ import Projectdetails from "../jsondatabase/projectdetails.json";
 
 function WeDidIt() {
   return (
- 
+ <div className='proj'>
+  <h2>Projects/Products</h2>
     <div className='projects'>
-      <h2>Projects/Products</h2>
+      
       {
       
         Projectdetails.map( project => {
@@ -38,7 +39,7 @@ function WeDidIt() {
 
      
     </div>
-
+    </div>
   )
 }
  

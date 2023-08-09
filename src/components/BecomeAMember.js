@@ -9,10 +9,10 @@ function BecomeAMember() {
 
       <h3>Why become a member?</h3>
       <ul>
-        <li>Get updates on Projects and Products</li>
-        <li>You can apply to work on any project/product that suits your schedule</li>
-        <li>Bring your dreams into reality by harnessing fayvourco Human resource</li>
-        <li>Industry experience</li>
+        <li>Work on real world projects/products that suits your schedule</li>
+        <li>Build your dream Product by harnessing Fayvourco Human Resources</li>
+        <li>Network with other industry professionals</li>
+        <li>Internships and wokshops</li>
       </ul>
 
       <p> Click here to <a href='#'>apply</a></p>

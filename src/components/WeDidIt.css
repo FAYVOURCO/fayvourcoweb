@@ -1,11 +1,17 @@
+.proj{
+    text-align: center;
+    margin-top: 3.9rem;
+    color: rgb(253, 243, 225);
+}
+
 .projects{
     width: 100vw;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 3.9rem;
-    color: rgb(253, 243, 225);
+    padding-top: 1.5rem;
+  
 }
 
 .project{

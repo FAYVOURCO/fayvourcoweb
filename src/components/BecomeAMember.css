@@ -1,13 +1,13 @@
 .bm{
-    width: 100vw;
     display: flex;
     flex-direction: column;
+    color: rgb(245, 242, 236);
     justify-content: center;
     align-items: center;
-    color: rgb(253, 243, 225);
     padding:0  2rem;
     margin-top: 3.9rem;
- 
+    background-color: rgba(0, 0, 0, 0.5);
+    
 }
 
  

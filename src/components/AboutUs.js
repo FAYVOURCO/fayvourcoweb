@@ -5,7 +5,8 @@ import Favour from "../IMG_a60foi.jpg";
 
 function AboutUs() {
   return (
-    <div className='aboutus-body'>
+    <div className="ab1">
+         <div className='aboutus-body'>
       <h2>ABOUT US</h2>
     <div className='article'>
             <div>
@@ -72,6 +73,8 @@ Join us in embarking on this journey of innovation and impact, guided by the vis
       </div>
 
     </div>
+    </div>
+   
 
   )
 }

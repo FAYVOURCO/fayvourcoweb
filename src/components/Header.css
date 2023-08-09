@@ -5,7 +5,7 @@ header{
     justify-content: space-between;
     background-color: #F2F2F2;
     align-items: center;
-    padding:0  2rem;
+    padding:0  1.5rem;
     position: fixed;
     top: 0;
 }
@@ -19,7 +19,7 @@ header{
 }
 
 .head1 img{
-    width: 3rem;
+    width: 2.6rem;
 }
 
 .nav{
@@ -42,8 +42,13 @@ header{
     visibility: hidden;
     opacity: 0;
     display: none;
+     
  }
  
+.bt{
+   height: 2rem;
+}
+
  @media only screen and (max-width: 1024px) {
     
      .nav-btn{

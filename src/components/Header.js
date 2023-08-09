@@ -18,7 +18,8 @@ function Header() {
         <header >
           <div className='head1'>
             <img src= {Logo} alt='Fayvourco Networks Logo'/>
-              <h1>Fayvourco Networks
+              <h1>
+                Fayvourco Networks
               </h1>
           </div>
              
@@ -31,13 +32,13 @@ function Header() {
             {/* <Link to="wedidit"><p>We did it!</p></Link>    */}
             <Link to="becomeamember"><p>Membership</p></Link>  
             <button className='nav-btn nav-close-btn' onClick={showNavbar}>
-              <FaTimes/>
+              <FaTimes className='bt'/>
             </button>
             
           </div> 
 
           <button className='nav-btn'  onClick={showNavbar}>
-            <FaBars/>
+            <FaBars className='bt'/>
           </button>
         </header>
      

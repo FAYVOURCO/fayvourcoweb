@@ -5,14 +5,12 @@ import "./Home.css";
 function Home() {
   return (
     <div className='text'>
-      <div>
+      <div className='text-sub'>
       <h2>
       WE ARE THE GARAGE WHERE IDEAS ARE BORN,
-      </h2>
-      <h2>
+       <br/><br/>
       THE C-SUITE WHERE THEY ARE EXECUTED,
-     </h2>
-     <h2>
+      <br/><br/>
      AND THE DREAM TEAM THAT MAKES THEM A REALITY.
     </h2>
     </div>

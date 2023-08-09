@@ -5,6 +5,9 @@ header{
     justify-content: space-between;
     background-color: #F2F2F2;
     align-items: center;
+    padding:0  2rem;
+    position: fixed;
+    top: 0;
 }
 
 .head1{
@@ -12,20 +15,66 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 20%;
+   
 }
 
-.head1 h2{
-    display: flex;
+.head1 img{
+    width: 3rem;
 }
 
-.head2{
+.nav{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
- 
-    width: 60%;
+   
 }
+ .nav p{
+    margin: 1rem;
+ }
+
+ .nav-btn{
+    padding: 5px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    outline: none;
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+ }
  
- 
+ @media only screen and (max-width: 1024px) {
+    
+     .nav-btn{
+        visibility: visible;
+        opacity: 1;
+        display: block;
+     }
+
+     header .nav {
+        position: fixed;
+        top: 3rem;
+        right: 0;
+        height: 50%;
+        width: 50%;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 1.5rem;
+        background-color: #FAFAFA;
+        transition: 0.7s;
+        transform: translateX(100vw);
+     }
+    
+    header .nav.res {
+        transform: translateX(0);
+     }
+
+     header .nav .nav-close-btn{
+      position: absolute;
+      top: 1rem;
+      left: 1rem;
+   }
+}

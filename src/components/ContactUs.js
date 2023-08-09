@@ -4,9 +4,9 @@ import "./ContactUs.css";
 
 function ContactUs() {
   return (
-    <div>
+    <h2 className='contact'>
       CONTACT US PAGE
-    </div>
+    </h2>
 
   )
 }

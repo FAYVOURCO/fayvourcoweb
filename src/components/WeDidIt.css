@@ -1,9 +1,20 @@
+.projects{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3.9rem;
+    color: rgb(253, 243, 225);
+}
+
 .project{
     width: 400px;
     height: 70px;
-    background-color: #F2F2F2;
+    background-color: rgba(0, 0, 0,0.6);
     border: 1px solid #7A7A7A;
     border-radius: 5px;
+    margin: 3px;
 }
 
 .project .p1{
@@ -11,6 +22,14 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+}
+
+.project .p1 .project-name{
+    font-weight: bold;
+}
+
+.project .p1 .project-type{
+    font-style: italic;
 }
 
 .project .p2{

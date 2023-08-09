@@ -5,26 +5,28 @@ import Favour from "../IMG_a60foi.jpg";
 
 function AboutUs() {
   return (
-    <div>
+    <div className='aboutus-body'>
       <h2>ABOUT US</h2>
+    <div className='article'>
+            <div>
+                <h3>Vision</h3>
+                <p>A global network of individuals who are dedicated to ﬁnding and implementing solutions to problems faced by individuals, organisations and societies.</p>
+              </div>
 
-      <div>
-        <h3>Vision</h3>
-        <p>A global network of individuals who are dedicated to ﬁnding and implementing solutions to problems faced by individuals, organisations and societies.</p>
-      </div>
-
-      <div>
-        <h3>Mission</h3>
-        <p>Leveraging on networking and communication to build solutions and solve problems faced by individuals, organisations and societies.</p>
-      </div>
-
-      <div>
+              <div>
+                <h3>Mission</h3>
+                <p>Leveraging on networking and communication to build solutions and solve problems faced by individuals, organisations and societies.</p>
+              </div>
+    </div>
+     
+ 
+      <div className='article'>
         <h3>Community Overview</h3>
         <p>Fayvourco Networks provides a platform for white-collar individuals, Intrapreneurs and Entrepreneurs who do not enjoy working in traditional high-pressure white-collar jobs to share their work and collaborate with others. </p>
         <p> Individuals work on projects/products that they are passionate about that fits with their schedule, short-term and long-term goals. We believe that this model provides a more fulfilling and sustainable way to work, and we are committed to helping our members achieve their goals.</p>
       </div>
 
-      <div>
+      <div className='article'>
         <h3>Meet the CEO/Founder</h3>
 
         <div>

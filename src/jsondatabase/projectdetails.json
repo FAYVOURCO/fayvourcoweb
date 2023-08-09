@@ -1,0 +1,104 @@
+[
+    {
+        "id":1,
+        "projectName": "WCCCF UNIBEN web App",
+        "productType": "Software",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "teamMembersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "teamMembersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer",
+         "groupPhoto": "https:////"
+    },
+    {
+        "id":2,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":3,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":4,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":5,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":6,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":7,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":8,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    },
+    {
+        "id":9,
+        "projectName": "Mini Fridge",
+        "productType": "Hardware",
+        "aboutProducct": "blah blah blah",
+        "productLink": "#",
+        "aboutProject": "hghghghgh",
+        "teamMembers": "Favour Onyeaghala - Product Manager, Hillary Chukwuose - UI/UX Designer, Arinze Chidera - Frontend Web Developer",
+        "team-membersEmail": "Favour Onyeaghala - onyeaghalafavour@gmail.com, Hillary Chukwuose - chukwuosehillary@gmail.com, arinzec200@gmail.com",
+        "team-membersLinkedin": "Favour Onyeaghala - htttps://linkedin.com, Hillary Chukwuose - htttps://linkedin.com, Arinze Chidera - Frontend Web Developer"
+    }
+]
+
+ 

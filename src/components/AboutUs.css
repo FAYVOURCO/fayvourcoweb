@@ -1,5 +1,25 @@
+.aboutus-body{
+    padding:0  2rem;
+    color: rgb(245, 242, 236);
+    text-align: center;
+    margin-top: 3.9rem;
+}
+
 .favour{
-width: 200px;
+width: 9rem;
 float: left;
 margin: 3px;
+border-radius: 50%;
+}
+
+h2{
+    padding-top: 2rem;
+}
+
+h3{
+    padding: 0.5rem;
+}
+
+.article{
+    margin: 2rem;
 }

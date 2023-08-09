@@ -1,0 +1,14 @@
+ .text{
+   color: rgb(253, 243, 225);
+    height: 100%;
+    display: grid;
+    align-items: center;
+    padding:0  2rem;
+    height: 80vh;
+    margin-top: 3.9rem;
+ }
+
+ .text div h2{
+    font-size: 2rem;
+    margin: 3rem;
+ }

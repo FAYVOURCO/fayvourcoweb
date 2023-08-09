@@ -4,13 +4,20 @@ import "./Home.css";
 
 function Home() {
   return (
-    <div>
+    <div className='text'>
+      <div>
+      <h2>
       WE ARE THE GARAGE WHERE IDEAS ARE BORN,
-      <br/>
+      </h2>
+      <h2>
       THE C-SUITE WHERE THEY ARE EXECUTED,
-      <br/>
-      AND THE DREAM TEAM THAT MAKES THEM A REALITY.
+     </h2>
+     <h2>
+     AND THE DREAM TEAM THAT MAKES THEM A REALITY.
+    </h2>
     </div>
+    </div>
+    
 
   )
 }
